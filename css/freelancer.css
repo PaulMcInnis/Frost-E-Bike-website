@@ -194,10 +194,32 @@ section.success {
     }
 }
 
+#feature1{
+    right: 0;
+    background: #BA4C63;
+}
+
+#feature2{
+    right: 0;
+    background: #1FA4B6;
+} 
+
+#feature3{
+    right: 0;
+    background: #CCB2A3;
+}
+
+#feature4{
+    right: 0;
+    background: #1037B5;
+}
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
 }
+
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
