@@ -66,6 +66,28 @@ hr.star-light:after {
     background-color: #6196E6;
 }
 
+hr#star1.star-light:after{
+    border-color: #fff;
+    color: #fff;
+    background-color: #BA4C63;
+}
+hr#star2.star-light:after{
+    border-color: #fff;
+    color: #fff;
+    background-color: #1FA4B6;
+}
+hr#star3.star-light:after{
+    border-color: #fff;
+    color: #fff;
+    background-color: #CCB2A3;
+}
+hr#star4.star-light:after{
+    border-color: #fff;
+    color: #fff;
+    background-color: #1037B5;
+}
+
+
 hr.star-primary {
     border-color: #2c3e50;
 }
